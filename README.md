@@ -16,7 +16,13 @@
 
 ## Github + JsDelivr（推荐）
 
+> PicGo
+
 ![image-20250731163842216](https://cdn.jsdelivr.net/gh/coooredump/OSS/img/202507311638308.png)
+
+> 关于 uPic 配置：https://blog.svend.cc/upic/tutorials/github/
+
+![](https://cdn.jsdelivr.net/gh/Wu-yikun/OSS/PicGo/202507311856284.png)
 
 `Github` 的图床思路和 `Gitee` 是一样的，但是就目前个人使用体验来说，`Github` 的稳定性是更胜一筹的，所以我的图床一出问题，我就快速切换到这个方案应急。
 
